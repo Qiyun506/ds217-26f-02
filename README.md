@@ -6,7 +6,7 @@ Reads one week of clinic encounters from data/clinic_encounters.csv, skips unusa
 
 ## Run
 
-python clinic_report.py
+Windows: python clinic_report.py
 
 ## Files
 
