@@ -1,0 +1,5 @@
+Cutoff: 155 mmHg
+Reason: THE range of systolic reading is 60-250 mmHg, so I choose the midpoint as the cutoff.
+P011
+P018
+P025
